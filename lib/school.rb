@@ -13,6 +13,6 @@ class School
   end
     
   def grade(s_grade)
-    
+    roster
 
 end 
